@@ -1,0 +1,30 @@
+.nav{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.span{
+    font-weight: bold;
+    color: #023047;
+}
+
+.dot{
+    color: red;
+}
+
+.buttons{
+    justify-content: flex-end;
+}
+
+.buttons:hover{
+    color: white;
+}
+
+.btnCustom{
+    width: 160px;
+    color: white;
+    border-radius: 3px;
+    margin: 0px 8px 0px 8px;
+    font-weight: bold;
+    font-size: 15px;
+}

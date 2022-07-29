@@ -1,0 +1,16 @@
+.main{
+    height: 90%;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.img{
+  width: 100%;
+}
+
+@media screen and (max-width: 1000px) {
+    .main {
+      display: none;
+    }
+}
